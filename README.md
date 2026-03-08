@@ -1,4 +1,4 @@
-# 200 AI Prompts for ChatGPT Niche
+# 200-ai-prompts-for-chatgpt-niche
 
 Revolutionize your writing with these 200 meticulously curated prompts tailored specifically for the ChatGPT niche! Perfect for content generation, product ideas, and engaging marketing copy. Dive int
 
@@ -6,7 +6,7 @@ Revolutionize your writing with these 200 meticulously curated prompts tailored 
 
 | Property | Value |
 |---|---|
-| Records | 4 |
+| Records | 3 |
 | Format | JSON |
 | License | CC BY 4.0 |
 | Updated | See commits |
@@ -14,7 +14,7 @@ Revolutionize your writing with these 200 meticulously curated prompts tailored 
 ## Sample
 
 ```json
-"What is the most innovative product idea for the future of transportation?"
+Keys: title, description, price
 ```
 
 ## Usage
